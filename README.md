@@ -3,7 +3,7 @@ Replacement for PiTender using picoW and PC over the unobtainable raspberry pi z
 
 
 
-If we rplace the Pi Zero W with the Pico W we can create a PiTneder that is buildible since we cant buy a Pi Zer anywhere for a resonable price.
+If we rplace the Pi Zero W with the Pico W we can create a PiTender that is buildible since we cant buy a Pi Zer anywhere for a resonable price.
 I thought it would be simple to convert the code over to some other platform in python and have that run the app and sent the commands to the pico to actually control the pumps.  
 
 
